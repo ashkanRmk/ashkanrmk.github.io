@@ -1,0 +1,33 @@
+.color1 {
+  color: #08aeac;
+}
+.color2 {
+  color: #021533;
+}
+.color3 {
+  color: #d9212a;
+}
+.font1 {
+  font-family: 'Montserrat', sans-serif;
+}
+.bold {
+  font-weight: bold;
+}
+.bg-cover {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.box-shadow {
+  -webkit-box-shadow: 0px 2px 6px 0px rgba(50, 50, 50, 0.3);
+  -moz-box-shadow: 0px 2px 6px 0px rgba(50, 50, 50, 0.3);
+  box-shadow: 0px 2px 6px 0px rgba(50, 50, 50, 0.3);
+}
+.responsive-image {
+  width: 100%;
+}
+.section {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
